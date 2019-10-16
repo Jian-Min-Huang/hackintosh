@@ -35,17 +35,17 @@
 * add USBInjectAll.kext to /EFI/CLOVER/kexts/Other for solving No entry / Prohibited sign
 * change bios setting, [refer this doc](https://github.com/Jian-Min-Huang/hackintosh/blob/master/doc/ASUS%20ROG%20STRIX%20Z370-G%20Hackintosh%20Guide%20mATX%20Build%20-%20Hackintosher.pdf)
 * remove /EFI/drivers64/AptioMemoryFix-64.efi and add OsxAptioFix2Drv-64.efi for solving mojave install freezes with 2 minutes left
-* usb drive boot install -> restart -> enter hardware -> keep install (can shutdown and connect network but no voice)
-* override hardware /EFI by usb drive /EFI
-* install driver by Multibeast, [ref this image]()
+* usb drive boot install
+  * -> restart
+    * -> enter hard disk you install
+      * keep install (can shutdown and connect network but no voice)
+* override hard disk /EFI by usb drive /EFI
+* install driver by Multibeast, [ref this image](https://github.com/Jian-Min-Huang/hackintosh/blob/master/img/MultiBeast-install.png?raw=true)
 * add NoVPAJpeg.kext to /EFI/CLOVER/kexts/Other for solving jpg open
-* you must remove hardware in boot list when you reinstall hackintosh (No entry / Prohibited sign)
-* dual hardware and dual system just install separately
-
-
-* NoVPAJpeg fix jpg open
-* 重灌一定要在 Bios Boot 把上一個硬碟拿掉, 不然會禁止符號
-* 雙硬碟雙系統就分開裝但是最後用mac那顆優先 Boot 就好
+* you must remove hard disk in boot list when you reinstall hackintosh (No entry / Prohibited sign)
+* dual hard disk with dual system
+  * install separately by different boot (bios remove other hard disk)
+    * at last, hackintosh hard disk has boot priority
 
 # Checklist
 * [x] shutdown
@@ -62,17 +62,17 @@
 
 # Other Hint
 * 黑鐵線
-* 全模
+* 全模PSU
 * 風扇插頭
 * 4PIN插頭
 * 3PIN插頭
 * USB910插頭
 
 # Reference
-* Tonymacx86
-* InsanelyMac
-* Reddit Hackintosh
-* 遠景論壇
+* https://www.tonymacx86.com/
+* https://www.insanelymac.com/
+* https://www.reddit.com/r/hackintosh/
+* http://bbs.pcbeta.com/index.php?gid=86
 * https://osx.cx/
 
 ![](https://github.com/Jian-Min-Huang/hackintosh/blob/master/img/pc.jpg?raw=true)
