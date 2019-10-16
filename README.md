@@ -23,30 +23,31 @@
 | ACCESSORIES | aibo | Bluetooth V4.0 微型藍芽傳輸器 |
 | ACCESSORIES | TP-Link | TL-WN725N |
 
-=== Tools
-* Install macOS Mojave.app
+# Software
+* macOS Mojave.app
 * Unibeast 9.1.0
 * Clover Configurator 5.2.1.0
 * MultiBeast 11.0.1 Mojave Edition
 
-=== Install Step & Hint
-* 按照 Unibeast 步驟安裝至隨身碟
-* fixshutdown打勾, darkwake=1
+# Install Step & Hint
+* install Mojave.app into usb drive by Unibeast
+* toggle the "fixshutdown" and change "darkwake" to 1
 * add USBInjectAll.kext to /EFI/CLOVER/kexts/Other for solving No entry / Prohibited sign
-* 調整 bios, 請參考 https://github.com/Jian-Min-Huang/tech-note/blob/master/doc/ASUS%20ROG%20STRIX%20Z370-G%20Hackintosh%20Guide%20mATX%20Build%20-%20Hackintosher.pdf[bios]
-* remove /EFI/drivers64/AptioMemoryFix-64.efi, add OsxAptioFix2Drv-64.efi, 請 google mojave install freezes with 2 minutes left
-* 隨身碟開機安裝 -&gt; 重開 -&gt; 進入硬碟 -&gt; 繼續安裝
-* 這個狀況 可關機 有網路 沒聲音
-* 接下來把隨身碟的/EFI蓋掉硬碟的/EFI
-* 按照 Multibeast 的步驟安裝需要的驅動
+* change bios setting, [refer this doc]()
+* remove /EFI/drivers64/AptioMemoryFix-64.efi and add OsxAptioFix2Drv-64.efi for solving mojave install freezes with 2 minutes left
+* usb drive boot install -> restart -> enter hardware -> keep install (can shutdown and connect network but no voice)
+* override hardware /EFI by usb drive /EFI
+* install driver by Multibeast, [ref this image]()
+* add NoVPAJpeg.kext to /EFI/CLOVER/kexts/Other for solving jpg open
+* you must remove hardware in boot list when you reinstall hackintosh (No entry / Prohibited sign)
+* dual hardware and dual system just install separately
 
-image::https://github.com/Jian-Min-Huang/tech-note/blob/master/img/MultiBeast%20Install.png[multibeast]
 
 * NoVPAJpeg fix jpg open
 * 重灌一定要在 Bios Boot 把上一個硬碟拿掉, 不然會禁止符號
 * 雙硬碟雙系統就分開裝但是最後用mac那顆優先 Boot 就好
 
-=== Checklist
+# Checklist
 * [x] shutdown
 * [x] restart
 * [x] sleep
@@ -59,7 +60,7 @@ image::https://github.com/Jian-Min-Huang/tech-note/blob/master/img/MultiBeast%20
 * [ ] FaceTime ?
 * [ ] iCloud ?
 
-=== Other Hint
+# Other Hint
 * 黑鐵線
 * 全模
 * 風扇插頭
@@ -67,7 +68,7 @@ image::https://github.com/Jian-Min-Huang/tech-note/blob/master/img/MultiBeast%20
 * 3PIN插頭
 * USB910插頭
 
-=== Reference
+# Reference
 * Tonymacx86
 * InsanelyMac
 * Reddit Hackintosh
