@@ -1,0 +1,2 @@
+# hackintosh
+my hackintosh note
