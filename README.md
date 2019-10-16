@@ -33,7 +33,7 @@
 * install Mojave.app into usb drive by Unibeast
 * toggle the "fixshutdown" and change "darkwake" to 1
 * add USBInjectAll.kext to /EFI/CLOVER/kexts/Other for solving No entry / Prohibited sign
-* change bios setting, [refer this doc]()
+* change bios setting, [refer this doc](https://github.com/Jian-Min-Huang/hackintosh/blob/master/doc/ASUS%20ROG%20STRIX%20Z370-G%20Hackintosh%20Guide%20mATX%20Build%20-%20Hackintosher.pdf)
 * remove /EFI/drivers64/AptioMemoryFix-64.efi and add OsxAptioFix2Drv-64.efi for solving mojave install freezes with 2 minutes left
 * usb drive boot install -> restart -> enter hardware -> keep install (can shutdown and connect network but no voice)
 * override hardware /EFI by usb drive /EFI
