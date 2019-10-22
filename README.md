@@ -8,10 +8,11 @@
 | SSD | CORSAIR | Force Series™ MP510 480GB M.2 SSD |
 | RAM | CORSAIR | Vengeance RGB PRO D4-3000M C15 16G * 4 |
 | PSU | CORSAIR | RM550X |
-| RADIATOR | CORSAIR | Hydro Series™ H115i RGB PLATINUM |
+| AIO COOLER | CORSAIR | Hydro Series™ H115i RGB PLATINUM |
 | CASE | CORSAIR | Crystal Series 680X RGB ATX High Airflow Tempered Glass Smart Case |
 | FAN | CORSAIR | LL140 * 2, LL120 * 4 |
 | LED | CORSAIR | iCUE Lighting Node PRO RGB Lighting Controller |
+| HEADSET | CORSAIR | VOID RGB ELITE USB Premium Gaming Headset with 7.1 Surround Sound |
 | HEADSET STAND | CORSAIR | ST100 RGB Premium Headset Stand with 7.1 Surround Sound |
 | KEYBOARD | CORSAIR | K70 RGB MK.2 Mechanical Gaming Keyboard — CHERRY® MX Brown |
 | MOUSEPAD | CORSAIR | MM800 RGB POLARIS Gaming Mouse Pad |
