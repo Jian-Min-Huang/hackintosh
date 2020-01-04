@@ -41,7 +41,7 @@
     * -> enter hard disk you install
       * keep install (can shutdown and connect network but no voice)
 * override hard disk /EFI by usb drive /EFI
-* install driver by Multibeast, [ref this image](https://github.com/Jian-Min-Huang/hackintosh/blob/master/img/MultiBeast-install.png?raw=true)
+* install driver by Multibeast, [ref this image](https://github.com/Jian-Min-Huang/hackintosh/blob/master/images/MultiBeast-install.png?raw=true)
 * add NoVPAJpeg.kext to /EFI/CLOVER/kexts/Other for solving jpg open
 * you must remove hard disk in boot list when you reinstall hackintosh (No entry / Prohibited sign)
 * dual hard disk with dual system
@@ -76,4 +76,4 @@
 * http://bbs.pcbeta.com/index.php?gid=86
 * https://osx.cx/
 
-![](https://github.com/Jian-Min-Huang/hackintosh/blob/master/img/pc.jpg?raw=true)
+![](https://github.com/Jian-Min-Huang/hackintosh/blob/master/images/pc.gif?raw=true)
