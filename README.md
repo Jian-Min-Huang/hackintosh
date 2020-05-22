@@ -47,6 +47,14 @@
 * dual hard disk with dual system
   * install separately by different boot (bios remove other hard disk)
     * at last, hackintosh hard disk has boot priority
+    
+# 20200522 Note and Tips
+* BIOS tuning
+* remove hard disk in boot list when you reinstall hackintosh
+* Find the force boot button from Clover Configuration (for ASUS H370 is F8)
+* Find some motherboard plist
+* Hackintosh USB 15 Limit Patch
+* Need Clover Configuration for Override /EFI in SSD from USB 
 
 # Checklist
 * [x] shutdown
