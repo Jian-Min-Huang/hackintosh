@@ -53,8 +53,15 @@
 * remove hard disk in boot list when you reinstall hackintosh
 * Find the force boot button from Clover Configuration (for ASUS H370 is F8)
 * Find some motherboard plist
-* Hackintosh USB 15 Limit Patch
-* Need Clover Configuration for Override /EFI in SSD from USB 
+* Hackintosh USB 15 Limit Patch (Cause Welcome Page not Mouse and Keyboard)
+* Need Clover Configuration for Override /EFI in SSD from USB
+
+# 20200522 Reference
+* [Vanilla Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/)
+* [H370 Ref](https://github.com/Autocrit/Asus-ROG-STRIX-H370-I-GAMING-Hackintosh-Guide)
+* [Guide](https://www.jianshu.com/p/81e329c50120)
+* [BIOS Setting](http://webcache.googleusercontent.com/search?q=cache:gHWJdo54biQJ:https://ishengplab.nctu.me/2020/hackintosh-catalina-opencore/&hl=zh-TW&gl=tw&strip=1&vwsrc=0)
+* [Usb Port Limit](https://hackintosher.com/forums/thread/list-of-hackintosh-usb-port-limit-patches-10-15-updated.467/)
 
 # Checklist
 * [x] shutdown
