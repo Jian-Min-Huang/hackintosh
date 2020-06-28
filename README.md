@@ -16,7 +16,8 @@
 | HEADSET STAND | CORSAIR | ST100 RGB Premium Headset Stand with 7.1 Surround Sound |
 | KEYBOARD | CORSAIR | K70 RGB MK.2 Mechanical Gaming Keyboard — CHERRY® MX Brown |
 | MOUSEPAD | CORSAIR | MM800 RGB POLARIS Gaming Mouse Pad |
-| MOUSE | Apple | Magic Mouse 2 - Space Gray |
+| MICE | CORSAIR | SCIMITAR PRO RGB Optical MOBA/MMO Gaming Mouse — Yellow |
+| MICE | Apple | Magic Mouse 2 - Space Gray |
 | TRACKPAD | Apple | Magic Trackpad 2 - Space Gray |
 | LCD | LG | 29UM58-P |
 | LCD | EIZO | FlexScan EV2450 |
