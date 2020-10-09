@@ -91,5 +91,6 @@
 * https://www.reddit.com/r/hackintosh/
 * http://bbs.pcbeta.com/index.php?gid=86
 * https://osx.cx/
+* https://imac.hk/blog.html
 
 ![](https://github.com/Jian-Min-Huang/hackintosh/blob/master/images/pc.gif?raw=true)
