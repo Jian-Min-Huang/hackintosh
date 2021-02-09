@@ -1,4 +1,18 @@
 # Spec
+LCD     LG       29UM58-P                                            *  1
+CPU     Intel    i7-8700                                             *  1
+MB      ASUS     ROG STRIX H370-F GAMING                             *  1
+VGA     MSI      RX570 ARMOR 8G OC                                   *  1
+RAM     CORSAIR  Vengeance RGB PRO D4-3000M 16G                      *  4
+SSD     CORSAIR  MP510 480GB                                         *  1
+PSU     CORSAIR  RM550X                                              *  1
+CASE    CORSAIR  CRYSTAL 680X RGB                                    *  1
+COOLER  CORSAIR  H115i RGB PLATINUM                                  *  1
+LED     CORSAIR  iCUE Commander PRO RGB Lighting and Fan Controller  *  1
+FAN     CORSAIR  LL140                                               *  2
+FAN     CORSAIR  LL120                                               *  4
+
+# Spec
 | Component | Brand | Model |
 |:----------|:------|:------|
 | CPU | Intel | i7-8700 |
