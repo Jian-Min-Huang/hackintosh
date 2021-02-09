@@ -1,5 +1,7 @@
 # Spec
+```
 LCD     LG       29UM58-P                                            *  1
+OS      Windows  10 Home                                             *  1
 CPU     Intel    i7-8700                                             *  1
 MB      ASUS     ROG STRIX H370-F GAMING                             *  1
 VGA     MSI      RX570 ARMOR 8G OC                                   *  1
@@ -11,6 +13,7 @@ COOLER  CORSAIR  H115i RGB PLATINUM                                  *  1
 LED     CORSAIR  iCUE Commander PRO RGB Lighting and Fan Controller  *  1
 FAN     CORSAIR  LL140                                               *  2
 FAN     CORSAIR  LL120                                               *  4
+```
 
 # Spec
 | Component | Brand | Model |
